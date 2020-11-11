@@ -1,0 +1,30 @@
+{
+    "name": "Footbal-org PWA",
+    "gcm_sender_id": "201917952201",
+    "short_name": "Footbalorg",
+    "description": "Informasi Website Sepakbola League Primere English",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "scope": "/",
+    "background_color": "#f0f0f0",
+    "theme_color": "#f0f0f0",
+    "icons": [{
+            "src": "/images/maskable_icon_96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/maskable_icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/maskable_icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
